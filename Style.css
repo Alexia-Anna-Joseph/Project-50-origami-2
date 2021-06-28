@@ -1,0 +1,15 @@
+
+
+.grid img {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 50px;
+}
+
+.origami {
+     
+     border-radius: 20px;
+     background-color: rgb(255, 255, 255);
+
+     width: 310px;
+     font-family: fanatasy;
+}
